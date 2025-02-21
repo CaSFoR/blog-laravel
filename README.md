@@ -2,6 +2,9 @@
 
 This is a simple blog website built to allow users to read and create blog posts. The website is built using HTML, CSS, JavaScript, and PHP Laravel.
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+
 ## Features
 - User can view blog posts
 - User can create, edit, and delete posts 
