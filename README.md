@@ -18,4 +18,4 @@ This is a simple blog website built to allow users to read and create blog posts
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/blog-website.git
+   git clone https://github.com/CaSFoR/blog-laravel.git
